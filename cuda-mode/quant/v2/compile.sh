@@ -1,0 +1,1 @@
+nvcc -O3 -std=c++17 quant.cu -o run
